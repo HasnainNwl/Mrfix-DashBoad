@@ -11,7 +11,7 @@ const Hero = () => {
                     <h4 className="py-3 mb-4 ">
                         <span className=" text-lg">Tables /</span> <span className=' text-xl font-bold'> Basic Tables</span>
                     </h4>
-                    <button className='text-xl text-white mx-10 px-[30px] py-0 my-4  bg-[blue]'><Link to="add">Add</Link></button>
+                    <button className='text-xl text-white mx-10 px-[30px] py-0 my-4 rounded-lg  bg-[blue]'><Link to="add">Add</Link></button>
 
 
                 </div>
